@@ -3,7 +3,7 @@ class Main
 {
 public static void main(String args[])
 {
-Scanner sc=new Scanner(System.in);
+ sc=new Scanner(System.in);
 System.out.println("Taking the input marks from  the examiner");
 System.out.println("all the subject marks in six semester exam");
 
@@ -12,7 +12,7 @@ int math=sc.nextInt();
 System.out.println("enter the second sub mc");
 int mc=sc.nextInt();
 System.out.println("enter the third sub tt");
-int tt=sc.nextInt();
+int tt=sc.nextInt();Scanner
 System.out.println("enter the fourth sub ai");
 int ai=sc.nextInt();
 System.out.println("enter the fifth sub ip");
@@ -22,3 +22,11 @@ System.out.println("total percentage of semester exam");
 System.out.println(percentage);
 }
 }
+sc=new Scanner(System.in);
+System.out.println("Taking the input marks from  the examiner");
+System.out.println("all the subject marks in six semester exam");
+
+ 
+
+
+
