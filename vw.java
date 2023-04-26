@@ -26,6 +26,8 @@ sc=new Scanner(System.in);
 System.out.println("Taking the input marks from  the examiner");
 System.out.println("all the subject marks in six semester exam");
 
+rana ,,,,
+
  
 
 
