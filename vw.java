@@ -22,11 +22,6 @@ System.out.println("total percentage of semester exam");
 System.out.println(percentage);
 }
 }
-sc=new Scanner(System.in);
-System.out.println("Taking the input marks from  the examiner");
-System.out.println("all the subject marks in six semester exam");
-
-rana ,,,,
 
  
 
